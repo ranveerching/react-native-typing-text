@@ -4,7 +4,7 @@ react-native-typing-text is a purely javascript based animated typing text plugi
 
 ### Installation
 ```
-npm install react-native-typing-text --save
+npm install --save react-native-typing-text
 ```
 ### Properties
 ```
@@ -21,7 +21,7 @@ blinkingCursorAnimationDuration: 190 // Duration of blinking animation for curso
 ```
 react-native init TypingText
 cd TypingText
-npm install react-native-typing-text --save
+npm install --save react-native-typing-text
 ```
 * Then paste the following code into your App.js file:
 ```
